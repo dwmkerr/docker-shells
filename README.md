@@ -1,6 +1,6 @@
-# docker-shells [![CircleCI](https://circleci.com/gh/dwmkerr/docker-shells.svg?style=shield)](https://circleci.com/gh/dwmkerr/docker-shells) [![ImageLayers Badge](https://badge.imagelayers.io/dwmkerr/shells:latest.svg)](https://imagelayers.io/?images=dwmkerr/shells:latest 'Get your own badge on imagelayers.io')
+# docker-shells [![CircleCI](https://circleci.com/gh/dwmkerr/docker-shells.svg?style=shield)](https://circleci.com/gh/dwmkerr/docker-shells) [![GuardRails badge](https://badges.production.guardrails.io/dwmkerr/docker-shells.svg)](https://www.guardrails.io)
 
-[![Docker Hub Badge](http://dockeri.co/image/dwmkerr/shells)](https://registry.hub.docker.com/u/dwmkerr/shells/) [![GuardRails badge](https://badges.production.guardrails.io/dwmkerr/docker-shells.svg)](https://www.guardrails.io)
+[![Docker Hub Badge](http://dockeri.co/image/dwmkerr/shells)](https://registry.hub.docker.com/u/dwmkerr/shells/)
 
 A simple Debian Stretch based image with all common shells pre-installed:
 
