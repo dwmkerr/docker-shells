@@ -18,7 +18,14 @@ RUN apt-get update -y
 RUN apt-get install -y psmisc
 
 # Install a bunch o shells.
-RUN apt-get install -y csh tcsh ksh zsh fish
+RUN apt-get install -y \
+    csh \
+    tcsh \
+    ksh \
+    zsh \
+    fish \
+    ash \
+    dash
 
 # Add the test script.
 COPY ./test/test.sh ./test.sh
