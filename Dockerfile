@@ -8,7 +8,7 @@
 # - ksh
 # - zsh
 # - fish
-FROM debian:stretch-slim
+FROM debian:bullseye-slim
 
 # Some metadata.
 MAINTAINER Dave Kerr <github.com/dwmkerr>
